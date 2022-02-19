@@ -4,5 +4,5 @@ helmCharts:
   - name: nginx-ingress
     releaseName: nginx-ingress
     namespace: default
-    version: 0.11.0
+    version: 0.12.1
     repo: https://helm.nginx.com/stable
